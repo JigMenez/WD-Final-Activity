@@ -133,6 +133,10 @@ WD-Finals
 └─ index.html
 └─ readme.md
 ```
+
+![WakaTime](https://wakatime.com/@Jig_Menez09)
+
+
 ## Resources
 | Title | Purpose | Link |
 |-|-|-|
