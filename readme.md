@@ -16,7 +16,7 @@
 
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=JigMenez/WD-Headers-and-Footers)
+![](https://visit-counter.vercel.app/counter.png?page=JigMenez/WD-Final-Activity)
 
 ---
 
@@ -90,49 +90,50 @@ Guiding Question:
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
-## Resources
+```
 WD-Finals
 └─ assets
-| └─ css
-| | └─ style.css
-| └─ img
-| | └─ fileWith.jpeg/.jpg/.webp/.png
-| └─ js
-| └─ script.js
+|    └─ css
+|    | └─ style.css
+|    └─ img
+|    | └─ fileWith.jpeg/.jpg/.webp/.png
+|    └─ js
+|    └─ script.js
 └─ pages
-| └─ 1About-Me
-| | └─ assets
-| | | └─ css
-| | | | └─ style.css
-| | | └─ js
-| | | └─ script.js
-| | └─ index.html
-| └─ 2Resume
-| | └─ assets
-| | | └─ css
-| | | | └─ style.css
-| | | └─ img
-| | | | └─ fileWith.jpeg/.jpg/.webp/.png
-| | | └─ js
-| | | └─ script.js
-| | └─ index.html
-| └─ 3Projects
-| | └─ assets
-| | | └─ css
-| | | | └─ style.css
-| | | └─ js
-| | | └─ script.js
-| | └─ index.html
-| └─ 4Contacts
-| └─ assets
-| | └─ css
-| | | └─ style.css
-| | └─ js
-| | └─ script.js
-| └─ index.html
+|    └─ 1About-Me
+|    | └─ assets
+|    | | └─ css
+|    | | | └─ style.css
+|    | | └─ js
+|    | | └─ script.js
+|    | └─ index.html
+|    └─ 2Resume
+|    | └─ assets
+|    | | └─ css
+|    | | | └─ style.css
+|    | | └─ img
+|    | | | └─ fileWith.jpeg/.jpg/.webp/.png
+|    | | └─ js
+|    | | └─ script.js
+|    | └─ index.html
+|    └─ 3Projects
+|    | └─ assets
+|    | | └─ css
+|    | | | └─ style.css
+|    | | └─ js
+|    | | └─ script.js
+|    | └─ index.html
+|    └─ 4Contacts
+|    └─ assets
+|    | └─ css
+|    | | └─ style.css
+|    | └─ js
+|    | └─ script.js
+|    └─ index.html
 └─ index.html
 └─ readme.md
-
+```
+## Resources
 | Title | Purpose | Link |
 |-|-|-|
 | Portfolio Project | This project showcases my portfolio including my resume, projects, and contact information. | [jigmenez.com](https://jigmenez.github.io/WD-Headers-and-Footers/index.html) |
