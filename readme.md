@@ -136,5 +136,5 @@ WD-Finals
 ## Resources
 | Title | Purpose | Link |
 |-|-|-|
-| Portfolio Project | This project showcases my portfolio including my resume, projects, and contact information. | [jigmenez.com](https://jigmenez.github.io/WD-Headers-and-Footers/index.html) |
+| Portfolio Project | This project showcases my portfolio including my resume, projects, and contact information. | [jigmenez.com](https://jigmenez.github.io/WD-Final-Activity/) |
 
