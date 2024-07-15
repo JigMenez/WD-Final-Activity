@@ -38,7 +38,16 @@
       </ol>
     </li>
     <li>
+      <a href="#file-structure">File Structure</a>
+    </li>
+    <li>
+      <a href="#deployment">Deployment</a>
+    </li>
+    <li>
       <a href="#resources">Resources</a>
+    </li>
+    <li>
+      <a href="#wakatime-integration">WakaTime Integration</a>
     </li>
   </ol>
 </details>
@@ -79,7 +88,7 @@ Guiding Question:
 **CSS Styles** (`assets/css/style.css`):
   - **General Styles**: Basic styles for body, background images, and common elements.
   - **Page-Specific Styles**: Distinct styles for each page to make them visually unique.
-  
+
 **Assets**:
   - **Images** (`assets/img`): Profile picture and background images for different pages.
   - **JavaScript** (`assets/js/script.js`): Placeholder for any JavaScript functionality, though not specifically utilized in the provided code.
@@ -89,6 +98,8 @@ Guiding Question:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
+## File Structure
 
 ```
 WD-Finals
@@ -132,15 +143,28 @@ WD-Finals
 |    └─ index.html
 └─ index.html
 └─ readme.md
+
 ```
 
+
+## Deployment
+
+To deploy this project:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/JigMenez/WD-Finals.git
+
+cd WD-Finals
+
+Resources
+| Title	| Purpose	| Link |
+|-|-|-|
+| Portfolio Project	| This project showcases my portfolio including my resume, projects, and contact information.	| [jigmenez.com](https://jigmenez.github.io/WD-Final-Activity/) |
+
+WakaTime Integration
 <h3>WakaTime - Jig Menez</h3>
+Coding activity with WakaTime: 
 
 [WakaTime](https://wakatime.com/@Jig_Menez09)
-
-
-## Resources
-| Title | Purpose | Link |
-|-|-|-|
-| Portfolio Project | This project showcases my portfolio including my resume, projects, and contact information. | [jigmenez.com](https://jigmenez.github.io/WD-Final-Activity/) |
 
