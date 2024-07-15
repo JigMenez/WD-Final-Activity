@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/JigMenez/">
     <img src="./assets/img/Phoenix Logo.jpg" alt="Nyebe" width="130" height="100">
   </a>
   <h3 align="center">Portfolio Project</h3>
