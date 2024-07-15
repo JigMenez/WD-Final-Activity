@@ -153,7 +153,7 @@ To deploy this project:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/JigMenez/WD-Finals.git
+   git clone https://github.com/JigMenez/WD-Final-Activity.git
 
 cd WD-Finals
 
