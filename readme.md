@@ -134,7 +134,7 @@ WD-Finals
 └─ readme.md
 ```
 
-![WakaTime](https://wakatime.com/@Jig_Menez09)
+[WakaTime](https://wakatime.com/@Jig_Menez09)
 
 
 ## Resources
